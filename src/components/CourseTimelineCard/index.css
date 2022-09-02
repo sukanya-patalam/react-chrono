@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.title-container {
+  display: flex;
+  justify-content: space-between;
+}
+.duration-container {
+  display: flex;
+  align-items: center;
+}
